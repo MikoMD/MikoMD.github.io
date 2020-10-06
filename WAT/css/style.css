@@ -110,6 +110,7 @@ header .navbar-light {
     float: left;
     height: 100%;
     width: 100vw;
+    background-color: #fff;
 }
 
 .slider_text {
@@ -285,9 +286,33 @@ header .navbar-light {
 }
 
 
+footer {
+    background-color: #1D1F21;
+}
 
+footer .container a {
+    color: #ffffff;
+}
 
+footer .container a:hover {
+    color: #FED136;
+}
 
+footer .container a {
+    text-decoration: none;
+}
+
+.rgba-white-light {
+    color: #fff;
+}
+
+.row d-flex text-center justify-content-center mb-md-0 mb-4 {
+    color: #fff;
+}
+
+.col-md-8 col-12 mt-5 {
+    color: #fff;
+}
 
 
 
@@ -505,9 +530,7 @@ header .navbar-light {
 }
 
 
-.page-footer font-small indigo {
-   color: #43494E;
-}
+
 
 
 @font-face {
