@@ -505,6 +505,11 @@ header .navbar-light {
 }
 
 
+.page-footer font-small indigo {
+    background-color: #43494E;
+}
+
+
 @font-face {
     font-family: 'HandelsonSix';
     src: url('../fonts/Handelson_Six/HandelsonSix.otf') format("truetype");
